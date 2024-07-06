@@ -1,5 +1,4 @@
-A Telegram bot that converts images to text using Google Vision API
-Description:
+
 A Telegram bot that converts images to text using Google Vision API. This bot allows users to send up to 10 images per day for text conversion and provides an option to purchase VIP access for more usage.
 
 How to use:
